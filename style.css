@@ -10,8 +10,9 @@ body{
     background-color:#D5E1EF;
     display: flex;
     justify-content: center;
-    align-items: center;
-    margin-top: 100px;
+    align-items: center;    
+    height: 100vh;
+    
 }
 .container{
     
